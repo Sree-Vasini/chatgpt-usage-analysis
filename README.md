@@ -40,18 +40,10 @@ File location: `data/chatgptdata.csv`
 
 From analyzing 10 conversations:
 
-- Total time saved: XX minutes  
-- Average time saved per chat: XX minutes  
-- Most used category: ______  
-- Category that saved most time: ______  
+- Total time saved: 149 mins
+- Average time saved per chat: 14.9 mins
+
 
 These results show how ChatGPT improves my productivity in real-world tasks.
 
----
-
-## Visualizations
-
-The analysis notebook generates:
-
-- Usage distribu
 
